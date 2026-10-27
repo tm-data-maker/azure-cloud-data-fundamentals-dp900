@@ -51,91 +51,16 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55" height="55" alt="SQL Server" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg" width="55" height="55" alt="Azure Cosmos DB" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="55" height="55" alt="Microsoft Azure" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" width="55" height="55" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric" />
 </p>
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="80" height="80" alt="SQL Server" />
-  &nbsp;&nbsp;
-  <img src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg" width="80" height="80" alt="Azure Cosmos DB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="80" height="80" alt="Azure" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" width="80" height="80" alt="Microsoft Fabric" />
-</p>
 
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45" height="45" alt="SQL Server" />
-  </a>
-  <a href="https://azure.microsoft.com/en-gb/products/cosmos-db">
-    <img src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg" width="45" height="45" alt="Cosmos DB" />
-  </a>
-  <a href="https://azure.microsoft.com/">
-    <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45" alt="Azure" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric">
-    <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" width="45" height="45" alt="Microsoft Fabric" />
-  </a>
-</p>
-
-**SQL Server** · **Azure Cosmos DB** · **Microsoft Azure** · **Microsoft Fabric**
-
-<h3>Database & Cloud Technologies</h3>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" alt="SQL Server" />
-  <img src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg" width="50" alt="Cosmos DB" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" alt="Azure" />
-  <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" width="50" alt="Microsoft Fabric" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="55" alt="Azure" />
-</p>
-
-<img
-  src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg"
-  width="64"
-  height="64"
-  alt="Azure Cosmos DB"
-/>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="60" alt="Microsoft SQL Server" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="60" alt="Microsoft Azure" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" width="55" alt="SQL Server" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftazure.svg" width="55" alt="Azure" />
-</p>
-
-<h2>🛠️ Tools & Technologies</h2>
-
-<h3>Databases & SQL</h3>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" height="50" alt="SQL Server" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL" />
-</p>
-
-<h3>Cloud & Data Platforms</h3>
-<p align="left">
-  <img src="https://msicons.com/icons/databases/10121-icon-service-Azure-Cosmos-DB.svg" width="50" height="50" alt="Azure Cosmos DB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Microsoft Azure" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftfabric/0078D4" width="50" height="50" alt="Microsoft Fabric" />
-</p>
 
 ---
 
