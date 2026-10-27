@@ -32,6 +32,20 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
   <img src="https://skillicons.dev/icons?i=supabase,azure,py,git&theme=dark" alt="Tech Stack" />
 </p>
 
+<p align="left">
+  <!-- SQL / Database -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="55" alt="SQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Azure Cosmos DB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Azure_Cosmos_DB.svg" width="55" alt="Cosmos DB" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Microsoft Azure -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="55" alt="Microsoft Azure" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Microsoft Fabric -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/Microsoft_Fabric.png" width="130" alt="Microsoft Fabric" />
+</p>
+
 ---
 
 ## 📌 Executive Summary
