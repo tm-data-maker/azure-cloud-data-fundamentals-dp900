@@ -2,24 +2,6 @@
 Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure SQL, Cosmos DB, Microsoft Fabric, and Power BI.
 # ☁️ Enterprise Cloud Computing & Azure Data Fundamentals (DP-900)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="60" alt="SQL" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure-cosmos-db/azure-cosmos-db.png" width="60" alt="Cosmos DB" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="60" alt="Microsoft Azure" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/Microsoft_Fabric.png" width="130" alt="Microsoft Fabric" />
-</p>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,azure,powershell,python&theme=dark" alt="Tech Stack" />
 </p>
@@ -31,29 +13,6 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
 <p align="left">
   <img src="https://skillicons.dev/icons?i=supabase,azure,py,git&theme=dark" alt="Tech Stack" />
 </p>
-
-<p align="left">
-  <!-- Azure SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="50" alt="SQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Azure Cosmos DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Cosmos DB" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Microsoft Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-5C2D91?style=for-the-badge&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric" />
-</p>
-
-
 
 ---
 
