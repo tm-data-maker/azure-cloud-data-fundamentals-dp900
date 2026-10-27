@@ -10,6 +10,20 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
 </p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="60" alt="SQL" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure-cosmos-db/azure-cosmos-db.png" width="60" alt="Cosmos DB" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="60" alt="Microsoft Azure" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/Microsoft_Fabric.png" width="130" alt="Microsoft Fabric" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,azure,powershell,python&theme=dark" alt="Tech Stack" />
+</p>
+
 ---
 
 ## 📌 Executive Summary
