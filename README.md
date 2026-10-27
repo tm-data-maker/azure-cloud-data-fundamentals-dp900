@@ -116,7 +116,8 @@ As part of the coursework, I designed a cloud migration proposal for a growing r
 ```
 ---
 
-###👤 Author
+## 👤 Author
+
 Tymofii Moshkovskyi
 
 Aspiring Data Technician & Junior Data Analyst
