@@ -44,13 +44,6 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cosmos DB" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   &nbsp;
   <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB" />
