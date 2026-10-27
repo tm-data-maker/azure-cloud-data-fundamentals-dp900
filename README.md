@@ -6,14 +6,6 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
   <img src="https://skillicons.dev/icons?i=postgres,azure,powershell,python&theme=dark" alt="Tech Stack" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,azure,powershell,python&theme=dark" alt="Tech Stack" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,azure,py,git&theme=dark" alt="Tech Stack" />
-</p>
-
 ---
 
 ## 📌 Executive Summary
