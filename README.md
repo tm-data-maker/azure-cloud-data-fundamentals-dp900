@@ -104,12 +104,12 @@ As part of the coursework, I designed a cloud migration proposal for a growing r
 ### 📂 Repository Structure
 
 ```text
-├── README.md                             # Comprehensive project documentation
-├── Data_Technician_Workbook_Week_5.docx  # Completed DP-900 Practical Workbook
-├── /scripts                              # Reusable database and analytics queries
+├── README.md                                # Comprehensive project documentation
+├── Data_Technician_Workbook_Week_5.docx     # Completed DP-900 Practical Workbook
+├── /scripts                                 # Reusable database and analytics queries
 │   ├── azure_sql_queries.sql
 │   └── fabric_kql_queries.kql
-└── /screenshots                          # Verified lab execution evidence
+└── /screenshots                             # Verified lab execution evidence
     ├── azure_sql_lab.png
     ├── cosmos_db_lab.png
     └── fabric_powerbi_lab.png
