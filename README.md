@@ -50,6 +50,20 @@ Cloud Computing &amp; Azure Data Fundamentals (DP-900) project featuring Azure S
   <img src="https://img.shields.io/badge/Microsoft_Fabric-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric" />
 </p>
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure Storage](https://img.shields.io/badge/Azure_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-2E75B6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6E44FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftazure" width="60" alt="Azure"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="60" alt="SQL Server"/>
+  <img src="https://cdn.simpleicons.org/microsoft" width="60" alt="Microsoft Fabric"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="60" alt="Power BI"/>
+</p>
+
 ---
 
 ## 📌 Executive Summary
