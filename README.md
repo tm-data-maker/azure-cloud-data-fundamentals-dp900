@@ -101,7 +101,30 @@ As part of the coursework, I designed a cloud migration proposal for a growing r
 
 ---
 
-### 📂 Repository Structure
+## 🖼️ 5. Practical Lab Evidence & Screenshots
+
+### Azure SQL Database Querying (Lab 1)
+Querying relational data in Azure SQL Database using Query Editor with INNER JOIN, WHERE, and ORDER BY clauses.
+
+![Azure SQL Database Lab](./screenshots/azure_sql_lab.png)
+
+---
+
+### Non-Relational Storage & Cosmos DB (Lab 2)
+Configuring Azure File Shares in Storage Accounts and querying JSON document collections using Cosmos DB Data Explorer.
+
+![Azure Cosmos DB Lab](./screenshots/cosmos_db_lab.png)
+
+---
+
+### Microsoft Fabric & Real-Time Analytics (Lab 3)
+Setting up lakehouses, running KQL queries in eventstreams, and building interactive Power BI analytics reports.
+
+![Microsoft Fabric Analytics](./screenshots/fabric_powerbi_lab.png)
+
+---
+
+## 📂 Repository Structure
 
 ```text
 ├── README.md                                # Comprehensive project documentation
